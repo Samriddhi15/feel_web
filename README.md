@@ -32,10 +32,9 @@ To get started with Feel, simply clone the repository and follow the instruction
 
 ## Screenshots
 
-![Screenshot 1](![image](https://github.com/Samriddhi15/feel_web/assets/106501626/a741f2fd-21f6-411b-9dab-9621b9d596b6)
-)
-![Screenshot 2](![image](https://github.com/Samriddhi15/feel_web/assets/106501626/c42f898f-fe61-4b19-93ea-2f194c5ebc76)
-)
+![Screenshot 1](https://github.com/Samriddhi15/feel_web/assets/106501626/a741f2fd-21f6-411b-9dab-9621b9d596b6)
+
+![Screenshot 2](https://github.com/Samriddhi15/feel_web/assets/106501626/c42f898f-fe61-4b19-93ea-2f194c5ebc76)
 
 ## Contributing
 
