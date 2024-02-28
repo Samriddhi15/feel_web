@@ -1,33 +1,46 @@
-# Feel
+<!-- Feel Logo -->
+<p align="center">
+  <img src="feel_logo.png" alt="Feel Logo" width="200" height="200">
+</p>
 
-Feel is a mental health platform designed to address the pressing challenges faced by individuals grappling with mental health issues in India. With its vast population and diverse demographics, India confronts a substantial mental health burden that warrants urgent attention. Feel aims to provide a supportive community and accessible resources to empower individuals on their journey to healing and resilience.
+<!-- Title -->
+<h1 align="center">Feel</h1>
 
-## Problem Statement
+<!-- Description -->
+<p align="center">A mental health platform fostering understanding, support, and resource accessibility.</p>
 
-India faces a significant mental health burden, with prevalent myths and taboos surrounding mental health. Ignorance and lack of help contribute to alarming suicide statistics, making it essential to address mental health challenges effectively. Many individuals struggle to find supportive communities and access relevant resources for mental well-being.
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
+  <img src="https://img.shields.io/badge/version-v1.0-blue" alt="Version">
+</p>
+
+## Overview
+
+Feel is a comprehensive mental health platform aimed at empowering individuals on their journey to healing and resilience. With a user-friendly interface and innovative features, Feel provides a supportive community, story sharing platform, and instant chatbot assistance.
 
 ## Features
 
-1. **Community Section:** Users can join groups based on shared experiences to find solidarity and support.
-2. **Story Sharing:** Encourages empathy and understanding through the sharing of personal experiences.
-3. **Chatbot Integration:** Provides instant support and access to tailored resources through an integrated chatbot.
-4. **Government Collaboration (Future):** Plans for collaboration with government agencies to streamline access to mental health services.
+- **Community Section**: Join groups based on shared experiences to find solidarity and support.
+- **Story Sharing**: Share personal experiences to foster empathy and understanding among users.
+- **Chatbot Integration**: Access instant support and tailored resources through an integrated chatbot.
+- **Government Collaboration (Future)**: Plans for collaboration with government agencies to streamline access to mental health services.
 
-## Objective
+## Getting Started
 
-Feel aims to foster understanding, support, and resource accessibility for mental well-being, empowering individuals on their journey to healing and resilience.
+To get started with Feel, simply clone the repository and follow the instructions in the [documentation](docs/README.md).
 
-## Project Overview
+## Screenshots
 
-Feel serves as a central hub for individuals seeking support and resources for mental well-being. It provides a user-friendly web app interface and plans for future collaboration with government agencies to enhance access to mental health services.
-
-## How to Use
-
-1. **Community Section:** Join groups based on shared experiences to find support.
-2. **Story Sharing:** Share personal experiences to foster empathy and understanding among users.
-3. **Chatbot Integration:** Access instant support and tailored resources through the integrated chatbot.
-4. **Future Government Collaboration:** Streamline access to mental health services with upcoming collaboration with government agencies.
+![Screenshot 1](![image](https://github.com/Samriddhi15/feel_web/assets/106501626/a741f2fd-21f6-411b-9dab-9621b9d596b6)
+)
+![Screenshot 2](![image](https://github.com/Samriddhi15/feel_web/assets/106501626/c42f898f-fe61-4b19-93ea-2f194c5ebc76)
+)
 
 ## Contributing
 
 Contributions to Feel are welcome! Please refer to the [contribution guidelines](CONTRIBUTING.md) for more information.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
