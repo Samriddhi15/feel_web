@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+# Feel
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Feel is a mental health platform designed to address the pressing challenges faced by individuals grappling with mental health issues in India. With its vast population and diverse demographics, India confronts a substantial mental health burden that warrants urgent attention. Feel aims to provide a supportive community and accessible resources to empower individuals on their journey to healing and resilience.
 
-## Available Scripts
+## Problem Statement
 
-In the project directory, you can run:
+India faces a significant mental health burden, with prevalent myths and taboos surrounding mental health. Ignorance and lack of help contribute to alarming suicide statistics, making it essential to address mental health challenges effectively. Many individuals struggle to find supportive communities and access relevant resources for mental well-being.
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. **Community Section:** Users can join groups based on shared experiences to find solidarity and support.
+2. **Story Sharing:** Encourages empathy and understanding through the sharing of personal experiences.
+3. **Chatbot Integration:** Provides instant support and access to tailored resources through an integrated chatbot.
+4. **Government Collaboration (Future):** Plans for collaboration with government agencies to streamline access to mental health services.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Objective
 
-### `npm test`
+Feel aims to foster understanding, support, and resource accessibility for mental well-being, empowering individuals on their journey to healing and resilience.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Project Overview
 
-### `npm run build`
+Feel serves as a central hub for individuals seeking support and resources for mental well-being. It provides a user-friendly web app interface and plans for future collaboration with government agencies to enhance access to mental health services.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## How to Use
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. **Community Section:** Join groups based on shared experiences to find support.
+2. **Story Sharing:** Share personal experiences to foster empathy and understanding among users.
+3. **Chatbot Integration:** Access instant support and tailored resources through the integrated chatbot.
+4. **Future Government Collaboration:** Streamline access to mental health services with upcoming collaboration with government agencies.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Contributing
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Contributions to Feel are welcome! Please refer to the [contribution guidelines](CONTRIBUTING.md) for more information.
